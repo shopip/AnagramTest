@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AnagramsDetect</string>
+    <string name="enter_first_string">Enter First String</string>
+    <string name="enter_second_string">Enter Second String</string>
+    <string name="anagram_fail">Two Strings Are Not Anagram</string>
+    <string name="anagram_pass">Two Strings Are Anagram</string>
+    <string name="check_anagram">Check Anagram</string>
+</resources>
